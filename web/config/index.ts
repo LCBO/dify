@@ -56,7 +56,7 @@ export const TONE_LIST = [
   },
   {
     id: 3,
-    name: 'Precise',
+    name: 'Precis',
     config: {
       temperature: 0.2,
       top_p: 0.75,
